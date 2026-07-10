@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://in.pinterest.com/pin/543528248801552641/" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Aspiring Software Developer | Tech Enthusiast | Curious learner | Electronics and Computer Science Student at Ramdeobaba College of Engineering and Management.
